@@ -12,7 +12,7 @@
 ### Hardware
 
 - Motherboard: BIOSTAR B660T Silver itx
-- Bios Version: B66AY225.BST（2022-02-25）
+- Bios Version: B66BY225.BST
 - CPU: Intel i5-12490F
 - GPU: Sapphire RX6600XT
 - Disk: Corsair MP600 1T
